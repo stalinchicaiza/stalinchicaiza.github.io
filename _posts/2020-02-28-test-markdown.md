@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Estudios realizados 
+{: .box-note}
+**Note:** Carlos Darwin.
+{: .box-note}
+**Note:** U.E "17 de Abril".
 ### Notification: ** Carlos Darwin **
 ### Notification: ** U.E "17 de Abril"
 
