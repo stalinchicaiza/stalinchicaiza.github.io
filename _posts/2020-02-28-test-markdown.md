@@ -4,7 +4,7 @@ title: Mi Perfíl
 
 ---
 
-Soy una persoan responsable y honesta, soy un joven alto y con un cabello negro y ojos cafes me gusta eschuchar musica de todo genero y me gusta jugar fultbol eh compartido muchas cosas con mis compañeros de escuela y colegio, me gustado ayudar a a la gente. Mi deseo es cumplir mis metas y ser alguien en la vida como hoy tengo un hijo darle todo para que no le falte na en su vida y cumplir los sueños de ser un profecional.
+Soy una persona responsable y honesta, soy un joven alto y con un cabello negro y ojos cafes me gusta eschuchar musica de todo genero y me gusta jugar fultbol eh compartido muchas cosas con mis compañeros de escuela y colegio, me gustado ayudar a a la gente. Mi deseo es cumplir mis metas y ser alguien en la vida como hoy tengo un hijo darle todo para que no le falte na en su vida y cumplir los sueños de ser un profecional.
 
 
 ## ESTUDIOS REALIZADOS
