@@ -58,15 +58,21 @@ foo(3)
 ## Boxes
 You can add notification, warning and error boxes like this:
 
-### Notification
 
-{: .box-note}
-**Note:** This is a notification box.
+---
+layout: post
+title: Estudios realizados 
 
-### Warning
+---
 
-{: .box-warning}
-**Warning:** This is a warning box.
+### Estudios
+{: .box-estudios}
+**Estudios Primarios:** This is a notification box.
+
+### Estudios
+
+{: .box-estudios}
+**Estudios Secuandarios:** This is a warning box.
 
 ### Error
 
