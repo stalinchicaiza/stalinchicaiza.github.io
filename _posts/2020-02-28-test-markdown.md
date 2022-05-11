@@ -1,14 +1,10 @@
 ---
 layout: post
 title: Mi Perfíl 
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Soy una persoan responsable y honesta, soy un joven alto y con un cabello negro y ojos cafes me gusta eschuchar musica de todo genero y me gusta jugar fultbol eh compartido muchas cosas con mis compañeros de escuela y colegio, me gustado ayudar a a la gente. Mi deseo es cumplir mis metas y ser alguien en la vida como hoy tengo un hijo darle todo para que no le falte na en su vida y cumplir los sueños de ser un profecional.
 
 **Here is some bold text**
 
