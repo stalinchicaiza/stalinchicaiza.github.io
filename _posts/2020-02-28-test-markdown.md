@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Estudios realizados 
+### Notification: ** Carlos Darwin **
+### Notification: ** U.E "17 de Abril"
+
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
