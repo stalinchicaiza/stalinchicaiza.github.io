@@ -43,11 +43,11 @@ social-network-links:
   facebook: "https://www.facebook.com/"
    youtube: "https://www.youtube.com/channel/UCU2JzwptACCmZCYo_1YwC3w/featured"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
- #facebook: deanattali
+ facebook: deanattali
 # github: daattali
  # twitter: daattali
  # patreon: DeanAttali
- # youtube: c/daattali
+ youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
