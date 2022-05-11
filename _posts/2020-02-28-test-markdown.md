@@ -55,11 +55,7 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-## Boxes
-You can add notification, warning and error boxes like this:
-
-
- ## Estudios realizados 
+## ESTUDIOS REALIZADOS
 
 ### Estudios
 {: .box-estudios}
