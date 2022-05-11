@@ -1,17 +1,27 @@
 ---
 layout: post
-title: Mis tiempos libres
-subtitle: Mis cosas que hago 
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+title: Mi Querido Canton Quero 
+subtitle: Verde Encanto 
+cover-img: /assets/img/quero.jpg
+thumbnail-img: /assets/img/turismo.jpg
+share-img: /assets/img/quero.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Santiago de Quero lleva el nombre de un pueblo español ubicado en la Provincia de Toledo. Fue fundado por Antonio de Clavijo el 25 de Julio de 1572 , en el lugar que ocupa actualmente el Caserío de Pueblo Viejo. En 1797 fue creada la parroquia eclesiástica. Es muy antigua la devoción a la Virgen del Rosario del Monte, venerada en una Ermita del Cerro Mulmul junto al arroyo agua amarilla y que pasó a la iglesia parroquial en 1797.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Los terremotos de 1698 y 1797 destruyeron la población que fue reconstruida por el corregidor de Ambato Bernardo de Darquea en el sitio actual. Durante la colonia los habitantes indígenas se especializaron en el tejido de cobijas y la artesanía de utensillos de madera, como cucharas y bateas.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+En 1858 fue elevado a la categoría de parroquia civil, en 1860 pasó a pertenecer al Cantón Pelileo y el 29 de Mayo de 1891 formó parte del Cantón Ambato.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+En 1949 sufrió las consecuencias del violento terremoto que asoló a toda la provincia.
+
+El 27 de Julio de 1972, bajo el gobierno del General Guillermo Rodríguez Lara, Quero fue elevado a Cantón, según decreto ejecutivo No. 681 del mismo año.
+
+La creación del cantón se produjo con una sola parroquia rural y en 1987 se creó la Parroquia Rumipamba.
+
+Quero se encuentra en el centro sur de la provincia limitada por los Cantones Cevallos al Norte, Pelileo al Este, Mocha al Oeste y la Provincia de Chimborazo al Sur. Su extensión territorial es de 173 Km2, la altitud varía entre 2600 hasta sobre los 3000 m.
+
+El Río principal es el Quero que al terminar el recorrido por el cantón sirviendo en calidad de límites con Cevallos, se denomina Pachanlica.
+
+## GRITO DE CANTONIZACIÓN
