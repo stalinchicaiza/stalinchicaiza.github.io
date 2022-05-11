@@ -59,11 +59,7 @@ foo(3)
 You can add notification, warning and error boxes like this:
 
 
----
-layout: post
-title: Estudios realizados 
-
----
+ ## Estudios realizados 
 
 ### Estudios
 {: .box-estudios}
