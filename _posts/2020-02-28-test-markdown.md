@@ -57,16 +57,13 @@ foo(3)
 
 ## ESTUDIOS REALIZADOS
 
-### Estudios
-{: .box-estudios}
-**Estudios Primarios:** This is a notification box.
-
-### Estudios
 
 {: .box-estudios}
-**Estudios Secuandarios:** This is a warning box.
+**Estudios Primarios:** Carlos Darwin
 
-### Error
 
-{: .box-error}
-**Error:** This is an error box.
+
+{: .box-estudios}
+**Estudios Secuandarios:** U.E "17 de Abril"
+
+
