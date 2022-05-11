@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Bryan Chicaiza
+title: My Website
 
 # Your name to show in the footer
 author: Bryan Chicaiza
@@ -41,11 +41,11 @@ round-foto_icono: true
 social-network-links:
   email: "example@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
- facebook: deanattali
+  facebook: deanattali
   github: daattali
- twitter: daattali
+  twitter: daattali
   patreon: DeanAttali
- youtube: c/daattali
+  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
